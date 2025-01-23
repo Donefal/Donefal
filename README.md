@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Donefal
-- 🏫 I’m Computer Engineering student from Universitas Pendidikan Indonesia
-- 🌱 I’m interested in low level stuff, graphics programing, and data engineering
+- 🏫 I’m a Computer Engineering student from Universitas Pendidikan Indonesia
+- 🌱 I interested in low level stuff, graphics programing, and data engineering
 - 🥅 Currently I'm just doing my best at my studies and doing a personal project once in a while
 - 🙏 Nice to meet you!
 
